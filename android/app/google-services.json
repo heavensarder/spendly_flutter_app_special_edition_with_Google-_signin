@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550057260360",
+    "project_id": "spendly-21bbf",
+    "storage_bucket": "spendly-21bbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550057260360:android:b657d8741ca4f3e0656f7d",
+        "android_client_info": {
+          "package_name": "com.heaven.spendly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550057260360-31krd0gvt9dfpqh240a8sao0ao6sqjub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heaven.spendly",
+            "certificate_hash": "6e65f2dd4e2b070ab7b0f0115652cab8c684df36"
+          }
+        },
+        {
+          "client_id": "550057260360-i0tc5g7h48fpam6om2n8fsbgoc35cn7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicfCBainHTTd1oK5cQTF_fkutDmKZsSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550057260360-i0tc5g7h48fpam6om2n8fsbgoc35cn7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
